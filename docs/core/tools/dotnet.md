@@ -43,7 +43,7 @@ dotnet [command] [arguments] [--additionalprobingpath] [--depsfile] [-d|--diagno
 
 `dotnet` is a tool for managing .NET source code and binaries. It exposes commands that perform specific tasks, such as [`dotnet build`](dotnet-build.md) and [`dotnet run`](dotnet-run.md). Each command defines its own arguments. Type `--help` after each command to access brief help documentation.
 
-`dotnet` can be used to run applications, by specifying an application DLL, such as `dotnet myapp.dll`. See [.NET Core application deployment](../deploying/index.md) for to learn about deployment options.
+`dotnet` can be used to run applications, by specifying an application DLL, such as `dotnet myapp.dll`. See [.NET Core application deployment](../deploying/index.md) to learn about deployment options.
 
 ## Options
 
